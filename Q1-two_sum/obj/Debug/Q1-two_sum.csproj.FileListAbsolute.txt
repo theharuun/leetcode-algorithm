@@ -1,0 +1,8 @@
+C:\Users\Harun\source\repos\leetcode-algorithm\Q1-two_sum\bin\Debug\Q1-two_sum.exe.config
+C:\Users\Harun\source\repos\leetcode-algorithm\Q1-two_sum\bin\Debug\Q1-two_sum.exe
+C:\Users\Harun\source\repos\leetcode-algorithm\Q1-two_sum\bin\Debug\Q1-two_sum.pdb
+C:\Users\Harun\source\repos\leetcode-algorithm\Q1-two_sum\obj\Debug\Q1-two_sum.csproj.AssemblyReference.cache
+C:\Users\Harun\source\repos\leetcode-algorithm\Q1-two_sum\obj\Debug\Q1-two_sum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Harun\source\repos\leetcode-algorithm\Q1-two_sum\obj\Debug\Q1-two_sum.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\leetcode-algorithm\Q1-two_sum\obj\Debug\Q1-two_sum.exe
+C:\Users\Harun\source\repos\leetcode-algorithm\Q1-two_sum\obj\Debug\Q1-two_sum.pdb

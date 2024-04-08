@@ -1,0 +1,8 @@
+C:\Users\Harun\source\repos\leetcode-algorithm\Q20-Valid-Parentheses\bin\Debug\Q20-Valid-Parentheses.exe.config
+C:\Users\Harun\source\repos\leetcode-algorithm\Q20-Valid-Parentheses\bin\Debug\Q20-Valid-Parentheses.exe
+C:\Users\Harun\source\repos\leetcode-algorithm\Q20-Valid-Parentheses\bin\Debug\Q20-Valid-Parentheses.pdb
+C:\Users\Harun\source\repos\leetcode-algorithm\Q20-Valid-Parentheses\obj\Debug\Q20-Valid-Parentheses.csproj.AssemblyReference.cache
+C:\Users\Harun\source\repos\leetcode-algorithm\Q20-Valid-Parentheses\obj\Debug\Q20-Valid-Parentheses.csproj.SuggestedBindingRedirects.cache
+C:\Users\Harun\source\repos\leetcode-algorithm\Q20-Valid-Parentheses\obj\Debug\Q20-Valid-Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\leetcode-algorithm\Q20-Valid-Parentheses\obj\Debug\Q20-Valid-Parentheses.exe
+C:\Users\Harun\source\repos\leetcode-algorithm\Q20-Valid-Parentheses\obj\Debug\Q20-Valid-Parentheses.pdb

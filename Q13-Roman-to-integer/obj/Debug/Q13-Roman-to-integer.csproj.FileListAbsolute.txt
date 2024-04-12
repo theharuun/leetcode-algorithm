@@ -1,0 +1,8 @@
+C:\Users\Harun\source\repos\leetcode-algorithm\Q13-Roman-to-integer\bin\Debug\Q13-Roman-to-integer.exe.config
+C:\Users\Harun\source\repos\leetcode-algorithm\Q13-Roman-to-integer\bin\Debug\Q13-Roman-to-integer.exe
+C:\Users\Harun\source\repos\leetcode-algorithm\Q13-Roman-to-integer\bin\Debug\Q13-Roman-to-integer.pdb
+C:\Users\Harun\source\repos\leetcode-algorithm\Q13-Roman-to-integer\obj\Debug\Q13-Roman-to-integer.csproj.AssemblyReference.cache
+C:\Users\Harun\source\repos\leetcode-algorithm\Q13-Roman-to-integer\obj\Debug\Q13-Roman-to-integer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Harun\source\repos\leetcode-algorithm\Q13-Roman-to-integer\obj\Debug\Q13-Roman-to-integer.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\leetcode-algorithm\Q13-Roman-to-integer\obj\Debug\Q13-Roman-to-integer.exe
+C:\Users\Harun\source\repos\leetcode-algorithm\Q13-Roman-to-integer\obj\Debug\Q13-Roman-to-integer.pdb

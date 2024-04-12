@@ -1,8 +1,0 @@
-C:\Users\Harun\source\repos\leetcode-algorithm\Q66-Plus-one\bin\Debug\Q66-Plus-one.exe.config
-C:\Users\Harun\source\repos\leetcode-algorithm\Q66-Plus-one\bin\Debug\Q66-Plus-one.exe
-C:\Users\Harun\source\repos\leetcode-algorithm\Q66-Plus-one\bin\Debug\Q66-Plus-one.pdb
-C:\Users\Harun\source\repos\leetcode-algorithm\Q66-Plus-one\obj\Debug\Q66-Plus-one.csproj.AssemblyReference.cache
-C:\Users\Harun\source\repos\leetcode-algorithm\Q66-Plus-one\obj\Debug\Q66-Plus-one.csproj.SuggestedBindingRedirects.cache
-C:\Users\Harun\source\repos\leetcode-algorithm\Q66-Plus-one\obj\Debug\Q66-Plus-one.csproj.CoreCompileInputs.cache
-C:\Users\Harun\source\repos\leetcode-algorithm\Q66-Plus-one\obj\Debug\Q66-Plus-one.exe
-C:\Users\Harun\source\repos\leetcode-algorithm\Q66-Plus-one\obj\Debug\Q66-Plus-one.pdb

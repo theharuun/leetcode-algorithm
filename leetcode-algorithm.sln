@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q35-Search-Insert-Position"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q66-Plus-one", "Q66-Plus-one\Q66-Plus-one.csproj", "{564D5172-C967-4EB7-875F-B4B4AB504E1D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q83-Remove-Duplicates-from-Sorted-List", "Q83-Remove-Duplicates-from-Sorted-List\Q83-Remove-Duplicates-from-Sorted-List.csproj", "{D1682C69-01C3-40E6-A37B-6A03E390B68B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{564D5172-C967-4EB7-875F-B4B4AB504E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{564D5172-C967-4EB7-875F-B4B4AB504E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{564D5172-C967-4EB7-875F-B4B4AB504E1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1682C69-01C3-40E6-A37B-6A03E390B68B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1682C69-01C3-40E6-A37B-6A03E390B68B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1682C69-01C3-40E6-A37B-6A03E390B68B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1682C69-01C3-40E6-A37B-6A03E390B68B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,8 @@
+C:\Users\Harun\source\repos\leetcode-algorithm\Q136-Single-number\bin\Debug\Q136-Single-number.exe.config
+C:\Users\Harun\source\repos\leetcode-algorithm\Q136-Single-number\bin\Debug\Q136-Single-number.exe
+C:\Users\Harun\source\repos\leetcode-algorithm\Q136-Single-number\bin\Debug\Q136-Single-number.pdb
+C:\Users\Harun\source\repos\leetcode-algorithm\Q136-Single-number\obj\Debug\Q136-Single-number.csproj.AssemblyReference.cache
+C:\Users\Harun\source\repos\leetcode-algorithm\Q136-Single-number\obj\Debug\Q136-Single-number.csproj.SuggestedBindingRedirects.cache
+C:\Users\Harun\source\repos\leetcode-algorithm\Q136-Single-number\obj\Debug\Q136-Single-number.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\leetcode-algorithm\Q136-Single-number\obj\Debug\Q136-Single-number.exe
+C:\Users\Harun\source\repos\leetcode-algorithm\Q136-Single-number\obj\Debug\Q136-Single-number.pdb

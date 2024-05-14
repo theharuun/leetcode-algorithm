@@ -1,0 +1,8 @@
+C:\Users\Harun\source\repos\leetcode-algorithm\Q144-Preorder-traversel-tree\bin\Debug\Q144-Preorder-traversel-tree.exe.config
+C:\Users\Harun\source\repos\leetcode-algorithm\Q144-Preorder-traversel-tree\bin\Debug\Q144-Preorder-traversel-tree.exe
+C:\Users\Harun\source\repos\leetcode-algorithm\Q144-Preorder-traversel-tree\bin\Debug\Q144-Preorder-traversel-tree.pdb
+C:\Users\Harun\source\repos\leetcode-algorithm\Q144-Preorder-traversel-tree\obj\Debug\Q144-Preorder-traversel-tree.csproj.AssemblyReference.cache
+C:\Users\Harun\source\repos\leetcode-algorithm\Q144-Preorder-traversel-tree\obj\Debug\Q144-Preorder-traversel-tree.csproj.SuggestedBindingRedirects.cache
+C:\Users\Harun\source\repos\leetcode-algorithm\Q144-Preorder-traversel-tree\obj\Debug\Q144-Preorder-traversel-tree.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\leetcode-algorithm\Q144-Preorder-traversel-tree\obj\Debug\Q144-Preorder-traversel-tree.exe
+C:\Users\Harun\source\repos\leetcode-algorithm\Q144-Preorder-traversel-tree\obj\Debug\Q144-Preorder-traversel-tree.pdb

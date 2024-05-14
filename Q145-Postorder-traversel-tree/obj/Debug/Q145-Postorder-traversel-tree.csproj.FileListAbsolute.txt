@@ -1,0 +1,8 @@
+C:\Users\Harun\source\repos\leetcode-algorithm\Q145-Postorder-traversel-tree\bin\Debug\Q145-Postorder-traversel-tree.exe.config
+C:\Users\Harun\source\repos\leetcode-algorithm\Q145-Postorder-traversel-tree\bin\Debug\Q145-Postorder-traversel-tree.exe
+C:\Users\Harun\source\repos\leetcode-algorithm\Q145-Postorder-traversel-tree\bin\Debug\Q145-Postorder-traversel-tree.pdb
+C:\Users\Harun\source\repos\leetcode-algorithm\Q145-Postorder-traversel-tree\obj\Debug\Q145-Postorder-traversel-tree.csproj.AssemblyReference.cache
+C:\Users\Harun\source\repos\leetcode-algorithm\Q145-Postorder-traversel-tree\obj\Debug\Q145-Postorder-traversel-tree.csproj.SuggestedBindingRedirects.cache
+C:\Users\Harun\source\repos\leetcode-algorithm\Q145-Postorder-traversel-tree\obj\Debug\Q145-Postorder-traversel-tree.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\leetcode-algorithm\Q145-Postorder-traversel-tree\obj\Debug\Q145-Postorder-traversel-tree.exe
+C:\Users\Harun\source\repos\leetcode-algorithm\Q145-Postorder-traversel-tree\obj\Debug\Q145-Postorder-traversel-tree.pdb

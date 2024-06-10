@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q145-Postorder-traversel-tr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q191-Number-of-1-Bits", "Q191-Number-of-1-Bits\Q191-Number-of-1-Bits.csproj", "{465D2F0A-9B46-4004-8F0D-E50AB90BB457}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q202-Happy-number", "Q202-Happy-number\Q202-Happy-number.csproj", "{8623CBE6-3F9E-4481-9920-BD25D3F9C062}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{465D2F0A-9B46-4004-8F0D-E50AB90BB457}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{465D2F0A-9B46-4004-8F0D-E50AB90BB457}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{465D2F0A-9B46-4004-8F0D-E50AB90BB457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8623CBE6-3F9E-4481-9920-BD25D3F9C062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8623CBE6-3F9E-4481-9920-BD25D3F9C062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8623CBE6-3F9E-4481-9920-BD25D3F9C062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8623CBE6-3F9E-4481-9920-BD25D3F9C062}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

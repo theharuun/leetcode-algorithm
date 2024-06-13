@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q191-Number-of-1-Bits", "Q1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q202-Happy-number", "Q202-Happy-number\Q202-Happy-number.csproj", "{8623CBE6-3F9E-4481-9920-BD25D3F9C062}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q171-Excel-Sheet-Column-Number", "Q171-Excel-Sheet-Column-Number\Q171-Excel-Sheet-Column-Number.csproj", "{336D9E53-8C7B-4E79-916F-C3BB3290338D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{8623CBE6-3F9E-4481-9920-BD25D3F9C062}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8623CBE6-3F9E-4481-9920-BD25D3F9C062}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8623CBE6-3F9E-4481-9920-BD25D3F9C062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{336D9E53-8C7B-4E79-916F-C3BB3290338D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{336D9E53-8C7B-4E79-916F-C3BB3290338D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{336D9E53-8C7B-4E79-916F-C3BB3290338D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{336D9E53-8C7B-4E79-916F-C3BB3290338D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

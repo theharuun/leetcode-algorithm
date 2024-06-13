@@ -1,0 +1,7 @@
+C:\Users\Harun\source\repos\leetcode-algorithm\Q171-Excel-Sheet-Column-Number\bin\Debug\Q171-Excel-Sheet-Column-Number.exe.config
+C:\Users\Harun\source\repos\leetcode-algorithm\Q171-Excel-Sheet-Column-Number\bin\Debug\Q171-Excel-Sheet-Column-Number.exe
+C:\Users\Harun\source\repos\leetcode-algorithm\Q171-Excel-Sheet-Column-Number\bin\Debug\Q171-Excel-Sheet-Column-Number.pdb
+C:\Users\Harun\source\repos\leetcode-algorithm\Q171-Excel-Sheet-Column-Number\obj\Debug\Q171-Excel-Sheet-Column-Number.csproj.AssemblyReference.cache
+C:\Users\Harun\source\repos\leetcode-algorithm\Q171-Excel-Sheet-Column-Number\obj\Debug\Q171-Excel-Sheet-Column-Number.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\leetcode-algorithm\Q171-Excel-Sheet-Column-Number\obj\Debug\Q171-Excel-Sheet-Column-Number.exe
+C:\Users\Harun\source\repos\leetcode-algorithm\Q171-Excel-Sheet-Column-Number\obj\Debug\Q171-Excel-Sheet-Column-Number.pdb

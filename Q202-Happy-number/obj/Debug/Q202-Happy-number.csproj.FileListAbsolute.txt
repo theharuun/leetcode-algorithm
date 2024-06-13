@@ -2,7 +2,6 @@ C:\Users\Harun\source\repos\leetcode-algorithm\Q202-Happy-number\bin\Debug\Q202-
 C:\Users\Harun\source\repos\leetcode-algorithm\Q202-Happy-number\bin\Debug\Q202-Happy-number.exe
 C:\Users\Harun\source\repos\leetcode-algorithm\Q202-Happy-number\bin\Debug\Q202-Happy-number.pdb
 C:\Users\Harun\source\repos\leetcode-algorithm\Q202-Happy-number\obj\Debug\Q202-Happy-number.csproj.AssemblyReference.cache
-C:\Users\Harun\source\repos\leetcode-algorithm\Q202-Happy-number\obj\Debug\Q202-Happy-number.csproj.SuggestedBindingRedirects.cache
 C:\Users\Harun\source\repos\leetcode-algorithm\Q202-Happy-number\obj\Debug\Q202-Happy-number.csproj.CoreCompileInputs.cache
 C:\Users\Harun\source\repos\leetcode-algorithm\Q202-Happy-number\obj\Debug\Q202-Happy-number.exe
 C:\Users\Harun\source\repos\leetcode-algorithm\Q202-Happy-number\obj\Debug\Q202-Happy-number.pdb

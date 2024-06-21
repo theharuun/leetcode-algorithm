@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Harun\\source\\repos\\leetcode-algorithm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9EAB8415-C970-40BA-99B8-66073B08C615}|Q217-Contains_Duplicate\\Q217-Contains_Duplicate.csproj|c:\\users\\harun\\source\\repos\\leetcode-algorithm\\q217-contains_duplicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAB8415-C970-40BA-99B8-66073B08C615}|Q217-Contains_Duplicate\\Q217-Contains_Duplicate.csproj|solutionrelative:q217-contains_duplicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{336D9E53-8C7B-4E79-916F-C3BB3290338D}|Q171-Excel-Sheet-Column-Number\\Q171-Excel-Sheet-Column-Number.csproj|c:\\users\\harun\\source\\repos\\leetcode-algorithm\\q171-excel-sheet-column-number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{336D9E53-8C7B-4E79-916F-C3BB3290338D}|Q171-Excel-Sheet-Column-Number\\Q171-Excel-Sheet-Column-Number.csproj|solutionrelative:q171-excel-sheet-column-number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8623CBE6-3F9E-4481-9920-BD25D3F9C062}|Q202-Happy-number\\Q202-Happy-number.csproj|c:\\users\\harun\\source\\repos\\leetcode-algorithm\\q202-happy-number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8623CBE6-3F9E-4481-9920-BD25D3F9C062}|Q202-Happy-number\\Q202-Happy-number.csproj|C:\\Users\\Harun\\source\\repos\\leetcode-algorithm\\q202-happy-number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8623CBE6-3F9E-4481-9920-BD25D3F9C062}|Q202-Happy-number\\Q202-Happy-number.csproj|solutionrelative:q202-happy-number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -64,6 +68,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Harun\\source\\repos\\leetcode-algorithm\\Q217-Contains_Duplicate\\Program.cs",
+              "RelativeDocumentMoniker": "Q217-Contains_Duplicate\\Program.cs",
+              "ToolTip": "C:\\Users\\Harun\\source\\repos\\leetcode-algorithm\\Q217-Contains_Duplicate\\Program.cs*",
+              "RelativeToolTip": "Q217-Contains_Duplicate\\Program.cs*",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAywCAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:32:48.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Harun\\source\\repos\\leetcode-algorithm\\Q171-Excel-Sheet-Column-Number\\Program.cs",
               "RelativeDocumentMoniker": "Q171-Excel-Sheet-Column-Number\\Program.cs",
               "ToolTip": "C:\\Users\\Harun\\source\\repos\\leetcode-algorithm\\Q171-Excel-Sheet-Column-Number\\Program.cs",
@@ -75,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Harun\\source\\repos\\leetcode-algorithm\\Q202-Happy-number\\Program.cs",
               "RelativeDocumentMoniker": "Q202-Happy-number\\Program.cs",
@@ -83,8 +100,7 @@
               "RelativeToolTip": "Q202-Happy-number\\Program.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAYwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T17:39:46.426Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T17:39:46.426Z"
             }
           ]
         }

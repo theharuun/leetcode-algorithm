@@ -3,7 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Harun\\source\\repos\\leetcode-algorithm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{942DA601-8E5A-470F-A9B8-3CD25A1B7491}|..\\Q58.Length-of-Last-Word\\Q58.Length-of-Last-Word.csproj|c:\\users\\harun\\source\\repos\\q58.length-of-last-word\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4B17E28-DFC8-4D22-90F5-93FAE08549F8}|Q58--length-of-the-last-world\\Q58--length-of-the-last-world.csproj|c:\\users\\harun\\source\\repos\\leetcode-algorithm\\q58--length-of-the-last-world\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B17E28-DFC8-4D22-90F5-93FAE08549F8}|Q58--length-of-the-last-world\\Q58--length-of-the-last-world.csproj|solutionrelative:q58--length-of-the-last-world\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,13 +60,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Harun\\source\\repos\\Q58.Length-of-Last-Word\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Q58.Length-of-Last-Word\\Program.cs",
-              "ToolTip": "C:\\Users\\Harun\\source\\repos\\Q58.Length-of-Last-Word\\Program.cs",
-              "RelativeToolTip": "..\\Q58.Length-of-Last-Word\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Harun\\source\\repos\\leetcode-algorithm\\Q58--length-of-the-last-world\\Program.cs",
+              "RelativeDocumentMoniker": "Q58--length-of-the-last-world\\Program.cs",
+              "ToolTip": "C:\\Users\\Harun\\source\\repos\\leetcode-algorithm\\Q58--length-of-the-last-world\\Program.cs",
+              "RelativeToolTip": "Q58--length-of-the-last-world\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T07:46:00.376Z",
+              "WhenOpened": "2024-07-30T07:50:56.563Z",
               "EditorCaption": ""
             }
           ]

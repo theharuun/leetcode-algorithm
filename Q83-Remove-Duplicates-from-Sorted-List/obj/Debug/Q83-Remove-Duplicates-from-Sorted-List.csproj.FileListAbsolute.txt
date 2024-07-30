@@ -2,7 +2,6 @@ C:\Users\Harun\source\repos\leetcode-algorithm\Q83-Remove-Duplicates-from-Sorted
 C:\Users\Harun\source\repos\leetcode-algorithm\Q83-Remove-Duplicates-from-Sorted-List\bin\Debug\Q83-Remove-Duplicates-from-Sorted-List.exe
 C:\Users\Harun\source\repos\leetcode-algorithm\Q83-Remove-Duplicates-from-Sorted-List\bin\Debug\Q83-Remove-Duplicates-from-Sorted-List.pdb
 C:\Users\Harun\source\repos\leetcode-algorithm\Q83-Remove-Duplicates-from-Sorted-List\obj\Debug\Q83-Remove-Duplicates-from-Sorted-List.csproj.AssemblyReference.cache
-C:\Users\Harun\source\repos\leetcode-algorithm\Q83-Remove-Duplicates-from-Sorted-List\obj\Debug\Q83-Remove-Duplicates-from-Sorted-List.csproj.SuggestedBindingRedirects.cache
 C:\Users\Harun\source\repos\leetcode-algorithm\Q83-Remove-Duplicates-from-Sorted-List\obj\Debug\Q83-Remove-Duplicates-from-Sorted-List.csproj.CoreCompileInputs.cache
 C:\Users\Harun\source\repos\leetcode-algorithm\Q83-Remove-Duplicates-from-Sorted-List\obj\Debug\Q83-Remove-Duplicates-from-Sorted-List.exe
 C:\Users\Harun\source\repos\leetcode-algorithm\Q83-Remove-Duplicates-from-Sorted-List\obj\Debug\Q83-Remove-Duplicates-from-Sorted-List.pdb

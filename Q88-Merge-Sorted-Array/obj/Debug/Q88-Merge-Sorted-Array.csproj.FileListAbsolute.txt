@@ -2,7 +2,6 @@ C:\Users\Harun\source\repos\leetcode-algorithm\Q88-Merge-Sorted-Array\bin\Debug\
 C:\Users\Harun\source\repos\leetcode-algorithm\Q88-Merge-Sorted-Array\bin\Debug\Q88-Merge-Sorted-Array.exe
 C:\Users\Harun\source\repos\leetcode-algorithm\Q88-Merge-Sorted-Array\bin\Debug\Q88-Merge-Sorted-Array.pdb
 C:\Users\Harun\source\repos\leetcode-algorithm\Q88-Merge-Sorted-Array\obj\Debug\Q88-Merge-Sorted-Array.csproj.AssemblyReference.cache
-C:\Users\Harun\source\repos\leetcode-algorithm\Q88-Merge-Sorted-Array\obj\Debug\Q88-Merge-Sorted-Array.csproj.SuggestedBindingRedirects.cache
 C:\Users\Harun\source\repos\leetcode-algorithm\Q88-Merge-Sorted-Array\obj\Debug\Q88-Merge-Sorted-Array.csproj.CoreCompileInputs.cache
 C:\Users\Harun\source\repos\leetcode-algorithm\Q88-Merge-Sorted-Array\obj\Debug\Q88-Merge-Sorted-Array.exe
 C:\Users\Harun\source\repos\leetcode-algorithm\Q88-Merge-Sorted-Array\obj\Debug\Q88-Merge-Sorted-Array.pdb

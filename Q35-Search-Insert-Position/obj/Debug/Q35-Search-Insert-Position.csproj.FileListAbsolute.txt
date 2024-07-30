@@ -2,7 +2,6 @@ C:\Users\Harun\source\repos\leetcode-algorithm\Q35-Search-Insert-Position\bin\De
 C:\Users\Harun\source\repos\leetcode-algorithm\Q35-Search-Insert-Position\bin\Debug\Q35-Search-Insert-Position.exe
 C:\Users\Harun\source\repos\leetcode-algorithm\Q35-Search-Insert-Position\bin\Debug\Q35-Search-Insert-Position.pdb
 C:\Users\Harun\source\repos\leetcode-algorithm\Q35-Search-Insert-Position\obj\Debug\Q35-Search-Insert-Position.csproj.AssemblyReference.cache
-C:\Users\Harun\source\repos\leetcode-algorithm\Q35-Search-Insert-Position\obj\Debug\Q35-Search-Insert-Position.csproj.SuggestedBindingRedirects.cache
 C:\Users\Harun\source\repos\leetcode-algorithm\Q35-Search-Insert-Position\obj\Debug\Q35-Search-Insert-Position.csproj.CoreCompileInputs.cache
 C:\Users\Harun\source\repos\leetcode-algorithm\Q35-Search-Insert-Position\obj\Debug\Q35-Search-Insert-Position.exe
 C:\Users\Harun\source\repos\leetcode-algorithm\Q35-Search-Insert-Position\obj\Debug\Q35-Search-Insert-Position.pdb

@@ -2,7 +2,6 @@ C:\Users\Harun\source\repos\leetcode-algorithm\Q28-Find-the-Index-of-the-First-O
 C:\Users\Harun\source\repos\leetcode-algorithm\Q28-Find-the-Index-of-the-First-Occurrence-in-a-String\bin\Debug\Q28-Find-the-Index-of-the-First-Occurrence-in-a-String.exe
 C:\Users\Harun\source\repos\leetcode-algorithm\Q28-Find-the-Index-of-the-First-Occurrence-in-a-String\bin\Debug\Q28-Find-the-Index-of-the-First-Occurrence-in-a-String.pdb
 C:\Users\Harun\source\repos\leetcode-algorithm\Q28-Find-the-Index-of-the-First-Occurrence-in-a-String\obj\Debug\Q28-Find-the-Index-of-the-First-Occurrence-in-a-String.csproj.AssemblyReference.cache
-C:\Users\Harun\source\repos\leetcode-algorithm\Q28-Find-the-Index-of-the-First-Occurrence-in-a-String\obj\Debug\Q28-Find-the-Index-of-the-First-Occurrence-in-a-String.csproj.SuggestedBindingRedirects.cache
 C:\Users\Harun\source\repos\leetcode-algorithm\Q28-Find-the-Index-of-the-First-Occurrence-in-a-String\obj\Debug\Q28-Find-the-Index-of-the-First-Occurrence-in-a-String.csproj.CoreCompileInputs.cache
 C:\Users\Harun\source\repos\leetcode-algorithm\Q28-Find-the-Index-of-the-First-Occurrence-in-a-String\obj\Debug\Q28-Find-the-Index-of-the-First-Occurrence-in-a-String.exe
 C:\Users\Harun\source\repos\leetcode-algorithm\Q28-Find-the-Index-of-the-First-Occurrence-in-a-String\obj\Debug\Q28-Find-the-Index-of-the-First-Occurrence-in-a-String.pdb

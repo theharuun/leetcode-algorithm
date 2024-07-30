@@ -2,7 +2,6 @@ C:\Users\Harun\source\repos\leetcode-algorithm\Q94-Inorder-traversel-tree\bin\De
 C:\Users\Harun\source\repos\leetcode-algorithm\Q94-Inorder-traversel-tree\bin\Debug\Q94-Inorder-traversel-tree.exe
 C:\Users\Harun\source\repos\leetcode-algorithm\Q94-Inorder-traversel-tree\bin\Debug\Q94-Inorder-traversel-tree.pdb
 C:\Users\Harun\source\repos\leetcode-algorithm\Q94-Inorder-traversel-tree\obj\Debug\Q94-Inorder-traversel-tree.csproj.AssemblyReference.cache
-C:\Users\Harun\source\repos\leetcode-algorithm\Q94-Inorder-traversel-tree\obj\Debug\Q94-Inorder-traversel-tree.csproj.SuggestedBindingRedirects.cache
 C:\Users\Harun\source\repos\leetcode-algorithm\Q94-Inorder-traversel-tree\obj\Debug\Q94-Inorder-traversel-tree.csproj.CoreCompileInputs.cache
 C:\Users\Harun\source\repos\leetcode-algorithm\Q94-Inorder-traversel-tree\obj\Debug\Q94-Inorder-traversel-tree.exe
 C:\Users\Harun\source\repos\leetcode-algorithm\Q94-Inorder-traversel-tree\obj\Debug\Q94-Inorder-traversel-tree.pdb

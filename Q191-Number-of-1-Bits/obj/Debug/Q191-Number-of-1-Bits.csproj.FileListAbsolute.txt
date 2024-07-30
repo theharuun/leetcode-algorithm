@@ -2,7 +2,6 @@ C:\Users\Harun\source\repos\leetcode-algorithm\Q191-Number-of-1-Bits\bin\Debug\Q
 C:\Users\Harun\source\repos\leetcode-algorithm\Q191-Number-of-1-Bits\bin\Debug\Q191-Number-of-1-Bits.exe
 C:\Users\Harun\source\repos\leetcode-algorithm\Q191-Number-of-1-Bits\bin\Debug\Q191-Number-of-1-Bits.pdb
 C:\Users\Harun\source\repos\leetcode-algorithm\Q191-Number-of-1-Bits\obj\Debug\Q191-Number-of-1-Bits.csproj.AssemblyReference.cache
-C:\Users\Harun\source\repos\leetcode-algorithm\Q191-Number-of-1-Bits\obj\Debug\Q191-Number-of-1-Bits.csproj.SuggestedBindingRedirects.cache
 C:\Users\Harun\source\repos\leetcode-algorithm\Q191-Number-of-1-Bits\obj\Debug\Q191-Number-of-1-Bits.csproj.CoreCompileInputs.cache
 C:\Users\Harun\source\repos\leetcode-algorithm\Q191-Number-of-1-Bits\obj\Debug\Q191-Number-of-1-Bits.exe
 C:\Users\Harun\source\repos\leetcode-algorithm\Q191-Number-of-1-Bits\obj\Debug\Q191-Number-of-1-Bits.pdb

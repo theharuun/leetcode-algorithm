@@ -2,7 +2,6 @@ C:\Users\Harun\source\repos\leetcode-algorithm\Q27-remove-number\bin\Debug\Q27-r
 C:\Users\Harun\source\repos\leetcode-algorithm\Q27-remove-number\bin\Debug\Q27-remove-number.exe
 C:\Users\Harun\source\repos\leetcode-algorithm\Q27-remove-number\bin\Debug\Q27-remove-number.pdb
 C:\Users\Harun\source\repos\leetcode-algorithm\Q27-remove-number\obj\Debug\Q27-remove-number.csproj.AssemblyReference.cache
-C:\Users\Harun\source\repos\leetcode-algorithm\Q27-remove-number\obj\Debug\Q27-remove-number.csproj.SuggestedBindingRedirects.cache
 C:\Users\Harun\source\repos\leetcode-algorithm\Q27-remove-number\obj\Debug\Q27-remove-number.csproj.CoreCompileInputs.cache
 C:\Users\Harun\source\repos\leetcode-algorithm\Q27-remove-number\obj\Debug\Q27-remove-number.exe
 C:\Users\Harun\source\repos\leetcode-algorithm\Q27-remove-number\obj\Debug\Q27-remove-number.pdb

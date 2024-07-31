@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q217-Contains_Duplicate", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q58--length-of-the-last-world", "Q58--length-of-the-last-world\Q58--length-of-the-last-world.csproj", "{F4B17E28-DFC8-4D22-90F5-93FAE08549F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q203-Remove-Linked-List-Elements", "Q203-Remove-Linked-List-Elements\Q203-Remove-Linked-List-Elements.csproj", "{1910F8B3-09CA-40E6-A2F5-9D56DFCB425C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{F4B17E28-DFC8-4D22-90F5-93FAE08549F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4B17E28-DFC8-4D22-90F5-93FAE08549F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4B17E28-DFC8-4D22-90F5-93FAE08549F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1910F8B3-09CA-40E6-A2F5-9D56DFCB425C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1910F8B3-09CA-40E6-A2F5-9D56DFCB425C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1910F8B3-09CA-40E6-A2F5-9D56DFCB425C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1910F8B3-09CA-40E6-A2F5-9D56DFCB425C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

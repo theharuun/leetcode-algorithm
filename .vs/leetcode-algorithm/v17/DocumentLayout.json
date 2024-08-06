@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Harun\\source\\repos\\leetcode-algorithm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1910F8B3-09CA-40E6-A2F5-9D56DFCB425C}|Q203-Remove-Linked-List-Elements\\Q203-Remove-Linked-List-Elements.csproj|c:\\users\\harun\\source\\repos\\leetcode-algorithm\\q203-remove-linked-list-elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1910F8B3-09CA-40E6-A2F5-9D56DFCB425C}|Q203-Remove-Linked-List-Elements\\Q203-Remove-Linked-List-Elements.csproj|solutionrelative:q203-remove-linked-list-elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4B17E28-DFC8-4D22-90F5-93FAE08549F8}|Q58--length-of-the-last-world\\Q58--length-of-the-last-world.csproj|c:\\users\\harun\\source\\repos\\leetcode-algorithm\\q58--length-of-the-last-world\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4B17E28-DFC8-4D22-90F5-93FAE08549F8}|Q58--length-of-the-last-world\\Q58--length-of-the-last-world.csproj|solutionrelative:q58--length-of-the-last-world\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57DDE085-8388-4552-B99B-F0C7A9A9A9C1}|Q231-Power-of-Two\\Q231-Power-of-Two.csproj|c:\\users\\harun\\source\\repos\\leetcode-algorithm\\q231-power-of-two\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DDE085-8388-4552-B99B-F0C7A9A9A9C1}|Q231-Power-of-Two\\Q231-Power-of-Two.csproj|solutionrelative:q231-power-of-two\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -64,26 +60,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Harun\\source\\repos\\leetcode-algorithm\\Q203-Remove-Linked-List-Elements\\Program.cs",
-              "RelativeDocumentMoniker": "Q203-Remove-Linked-List-Elements\\Program.cs",
-              "ToolTip": "C:\\Users\\Harun\\source\\repos\\leetcode-algorithm\\Q203-Remove-Linked-List-Elements\\Program.cs*",
-              "RelativeToolTip": "Q203-Remove-Linked-List-Elements\\Program.cs*",
-              "ViewState": "AQIAADwAAAAAAAAAAAAUwFQAAABEAAAA",
+              "DocumentMoniker": "C:\\Users\\Harun\\source\\repos\\leetcode-algorithm\\Q231-Power-of-Two\\Program.cs",
+              "RelativeDocumentMoniker": "Q231-Power-of-Two\\Program.cs",
+              "ToolTip": "C:\\Users\\Harun\\source\\repos\\leetcode-algorithm\\Q231-Power-of-Two\\Program.cs*",
+              "RelativeToolTip": "Q231-Power-of-Two\\Program.cs*",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA0wBwAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T09:48:12.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Harun\\source\\repos\\leetcode-algorithm\\Q58--length-of-the-last-world\\Program.cs",
-              "RelativeDocumentMoniker": "Q58--length-of-the-last-world\\Program.cs",
-              "ToolTip": "C:\\Users\\Harun\\source\\repos\\leetcode-algorithm\\Q58--length-of-the-last-world\\Program.cs",
-              "RelativeToolTip": "Q58--length-of-the-last-world\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T07:50:56.563Z",
+              "WhenOpened": "2024-08-06T08:36:28.745Z",
               "EditorCaption": ""
             }
           ]

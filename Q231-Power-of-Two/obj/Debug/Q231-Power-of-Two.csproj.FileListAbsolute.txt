@@ -1,0 +1,7 @@
+C:\Users\Harun\source\repos\leetcode-algorithm\Q231-Power-of-Two\bin\Debug\Q231-Power-of-Two.exe.config
+C:\Users\Harun\source\repos\leetcode-algorithm\Q231-Power-of-Two\bin\Debug\Q231-Power-of-Two.exe
+C:\Users\Harun\source\repos\leetcode-algorithm\Q231-Power-of-Two\bin\Debug\Q231-Power-of-Two.pdb
+C:\Users\Harun\source\repos\leetcode-algorithm\Q231-Power-of-Two\obj\Debug\Q231-Power-of-Two.csproj.AssemblyReference.cache
+C:\Users\Harun\source\repos\leetcode-algorithm\Q231-Power-of-Two\obj\Debug\Q231-Power-of-Two.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\leetcode-algorithm\Q231-Power-of-Two\obj\Debug\Q231-Power-of-Two.exe
+C:\Users\Harun\source\repos\leetcode-algorithm\Q231-Power-of-Two\obj\Debug\Q231-Power-of-Two.pdb

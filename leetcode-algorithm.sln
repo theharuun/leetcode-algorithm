@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q58--length-of-the-last-wor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q203-Remove-Linked-List-Elements", "Q203-Remove-Linked-List-Elements\Q203-Remove-Linked-List-Elements.csproj", "{1910F8B3-09CA-40E6-A2F5-9D56DFCB425C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q231-Power-of-Two", "Q231-Power-of-Two\Q231-Power-of-Two.csproj", "{57DDE085-8388-4552-B99B-F0C7A9A9A9C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{1910F8B3-09CA-40E6-A2F5-9D56DFCB425C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1910F8B3-09CA-40E6-A2F5-9D56DFCB425C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1910F8B3-09CA-40E6-A2F5-9D56DFCB425C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57DDE085-8388-4552-B99B-F0C7A9A9A9C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57DDE085-8388-4552-B99B-F0C7A9A9A9C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57DDE085-8388-4552-B99B-F0C7A9A9A9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57DDE085-8388-4552-B99B-F0C7A9A9A9C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -6,6 +6,7 @@ Example 1:
 
 Input: s = "anagram", t = "nagaram"
 Output: true
+-
 Example 2:
 
 Input: s = "rat", t = "car"
@@ -19,6 +20,7 @@ Anagram, farklı bir kelime veya ifadenin harflerini yeniden düzenleyerek oluş
 
 Giriş: s = "anagram", t = "nagaram"
 Çıktı: true
+-
 Örnek 2:
 
 Giriş: s = "rat", t = "car"

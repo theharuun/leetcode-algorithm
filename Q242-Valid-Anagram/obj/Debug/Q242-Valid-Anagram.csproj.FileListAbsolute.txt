@@ -1,0 +1,7 @@
+C:\Users\Harun\source\repos\leetcode-algorithm\Q242-Valid-Anagram\bin\Debug\Q242-Valid-Anagram.exe.config
+C:\Users\Harun\source\repos\leetcode-algorithm\Q242-Valid-Anagram\bin\Debug\Q242-Valid-Anagram.exe
+C:\Users\Harun\source\repos\leetcode-algorithm\Q242-Valid-Anagram\bin\Debug\Q242-Valid-Anagram.pdb
+C:\Users\Harun\source\repos\leetcode-algorithm\Q242-Valid-Anagram\obj\Debug\Q242-Valid-Anagram.csproj.AssemblyReference.cache
+C:\Users\Harun\source\repos\leetcode-algorithm\Q242-Valid-Anagram\obj\Debug\Q242-Valid-Anagram.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\leetcode-algorithm\Q242-Valid-Anagram\obj\Debug\Q242-Valid-Anagram.exe
+C:\Users\Harun\source\repos\leetcode-algorithm\Q242-Valid-Anagram\obj\Debug\Q242-Valid-Anagram.pdb

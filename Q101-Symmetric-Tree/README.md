@@ -11,6 +11,9 @@ Output: false
 
 ### Örnek 1:
 Giriş: kök = [1,2,2,3,4,4,3]
+              1
+           2     2
+         3   4  4  3
 Çıktı: doğru
 ### Örnek 2:
 Giriş: kök = [1,2,2,3,4,3,4]

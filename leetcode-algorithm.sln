@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q231-Power-of-Two", "Q231-P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q242-Valid-Anagram", "Q242-Valid-Anagram\Q242-Valid-Anagram.csproj", "{71CDDC99-B04B-4C84-926E-BC7AAE6A8418}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q101-Symmetric-Tree", "Q101-Symmetric-Tree\Q101-Symmetric-Tree.csproj", "{81D26E99-5093-47BE-AF0A-8FDAC48D2CB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{71CDDC99-B04B-4C84-926E-BC7AAE6A8418}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71CDDC99-B04B-4C84-926E-BC7AAE6A8418}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71CDDC99-B04B-4C84-926E-BC7AAE6A8418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81D26E99-5093-47BE-AF0A-8FDAC48D2CB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81D26E99-5093-47BE-AF0A-8FDAC48D2CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81D26E99-5093-47BE-AF0A-8FDAC48D2CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81D26E99-5093-47BE-AF0A-8FDAC48D2CB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
